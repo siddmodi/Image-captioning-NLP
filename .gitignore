@@ -1,0 +1,10 @@
+/data
+.data
+/glove
+.glove
+/model_weights
+.model_weights
+/descriptions.txt
+.descriptions.txt
+/ipynb_checkpoints
+.ipynb_checkpoints
